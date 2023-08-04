@@ -41,10 +41,13 @@ git clone https://github.com/programmingwormhole/flutter_chat_app.git
 ```
   ##### Move to the desired folder
 ```bash
-cd /Chatter-App
+cd /flutter_chat_app
 ```
 
   ##### To run the app, simply write
+  ```bash
+flutter pub get
+```
 ```bash
 flutter run
 ```
