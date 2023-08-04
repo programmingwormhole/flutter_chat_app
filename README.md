@@ -37,7 +37,7 @@ This is a flutter-based small chatting app with rest API where users can sign in
 
   ##### Clone the repository
 ```bash
-git clone https://github.com/ishandeveloper/Chatter-App.git
+git clone https://github.com/programmingwormhole/flutter_chat_app.git
 ```
   ##### Move to the desired folder
 ```bash
