@@ -41,7 +41,7 @@ git clone https://github.com/ishandeveloper/Chatter-App.git
 ```
   ##### Move to the desired folder
 ```bash
-cd \Chatter-App
+cd /Chatter-App
 ```
 
   ##### To run the app, simply write
